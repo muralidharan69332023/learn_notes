@@ -1,0 +1,69 @@
+10:08 20-11-2024
+
+	[link: https://www.ti.com/tool/PMP41015]
+> AC zero crossing in flyback converter.
+> before isolation PGND after isolation SGND.
+> Schottky diode //[drop voltage-0.2v~0.3v, narrow junction point]
+		//[Normal diode (If=10A,Vf=0.7)7W]-[Schottky diode(If=10A,vf=03)3W]
+> diode used in dc-dc converter
+> TLP292 -Ac voltage optocoupler //[antiparallel diode combination.]
+> MBRB20200CTG -Schottky barrier rectifier //[200v blocking voltage]
+>> [ques: common mode choke vs coupled inductor]
+------------------------------------------------------------------
+11:30 21-11-2024
+
+	[https://www.proto-electronics.com/blog/best-rules-for-pcb-components-placement#:~:text=A%20good%20rule%20of%20thumb,proximity%20to%20through%2Dhole%20terminals.]
+
+> pcb component placement guides.
+> 4 layer PCB or layer order
+	-SIG+PWR(TOP)-->GND(LAYER_1)-->GND(LAYER_2)-->SIG+PWR(BOTTOM) 
+		//[Great for high-speed digital]
+	-GND(TOP)-->SIG+PWR(LAYER_1)-->SIG+PWR(LAYER_2-->GND(BOTTOM) 
+		// [great for shielding in low density builds]
+		//[50 Ohms in a 4-layer stackup ]
+	- Wire harness design
+-------------------------------------------------------------------
+09:31 22-11-2024
+
+>[link:https://www.youtube.com/watch?v=ccX2nMwNJtg&list=PLISmVLHAZbTSnquWc2nQaPaN2k4w22QMS&index=6] // [the debug mindset]
+
+=====================================================
+
+> memory in embedded system.
+	1) program storage for the CPU.
+	2)data storage for both CPU and peripherals.
+
+>> two type of memorys.
+	1)Volatile: contents lost when device is powered down //[EX: SRAM, DRAM, CACHES]
+	2)non-volatile: contents preserved when device is powered down.[EX: FLASH, FRAM, ROM]
+
+
+
+
+
+
+
+
+
+
+
+=====================================================
+
+> trickle charge //[battery]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
