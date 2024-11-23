@@ -1,0 +1,71 @@
+07/10/2024
+*robo-machine: add to controller with that machine. add ordinary color sensor, add tmg39931 sensor,TOF sensor,  rpm controlled by joystick, display this RPM value in oled display, */bot must be in two wheel/*
+*python task
+---------------------------------------------------------------------------------------------------------------------------------
+22/10/2024
+* SEGGER J-Link EDU Mini - JTAG/SWD Debugger
+* digital potentiometer
+----------------------------------------------------------------------------------------------------------------------------------
+13/112024
+* understanding wifi and bluetooth
+* new tips for pcb 
+* c++ learn
+---------------------------------------------------------------------------------------------------------------------------------
+14/11/2024
+
+* jornals reading 
+* project maping
+---------------------------------------------------------------------------------------------------------------------------------
+15/11/2024
+
+(*)M
+	*pcb
+	*forum
+	*community
+	*hw
+(*)A
+	*c++
+	*embedded
+--------------------------------------------------------------
+19/11/2024
+	<PCB Flie format>
+--------------------------------------------------------------
+09:24 21-11-2024
+
+> 10 new git command
+> pcb component placement logic
+
+-----------------------------------------------------
+09:26 22-11-2024
+
+> Clear understand about hardware design understand and short list within 10 points.
+> Clear understand about power supply type and flow.
+======================================
+	<For documentation>
+
+>draw.io
+>google docs
+---------------------------------------------------------------
+09:51 23-11-2024
+
+> rubber duck
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
