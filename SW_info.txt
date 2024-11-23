@@ -1,0 +1,25 @@
+09:41 21-11-2024
+
+	<git>
+> Individual Developer (participant) // [to work with other pepole]
+----------------------------------------------------------------------------------
+13:41 21-11-2024
+
+> float avg,sum = ; // [two same type variable in same line and assign same value in the single line itself]
+----------------------------------------------------------------------------------
+09:40 22-11-2024
+
+> rubber duck method to debugging the code.
+>[link: https://www.youtube.com/watch?v=8Acb0OTWCh4] .py to .exe file
+===================================================
+
+	<sorting algorithms>
+> Bubble sort -->//[not to use just to know]
+> Selection sort
+> Insertion sort
+> Merge sort 
+> Quick sort
+> Radix sort
+
+	<time complexity>
+	<Big o notation>
