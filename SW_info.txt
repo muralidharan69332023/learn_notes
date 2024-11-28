@@ -51,3 +51,4 @@
 	car mycar1;
 	car mycar2;
 
+> "enumerations"
