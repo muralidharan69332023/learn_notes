@@ -53,10 +53,18 @@
 -----------------------------------------------------------------------------------------
 11:34 25-11-2024
 
->
+> (Bleeder resister in mega ohms[high value]) to discharge current stored in a capacitor while the power is turned off.
+> Capacitor Switching
+-----------------------------------------------------------------------------------------
+10:48 26-11-2024
 
-
-
+>  1 W isolated output //[in regulator]
+> In PCB board there are 2type of jumper //[closed jumper, open jumper ] 
+> Hi-pot test.
+> dielectric layers.
+=========================================
+ 12:54 26-11-2024
+> power integrity
 
 
 
