@@ -28,6 +28,26 @@
  
 >	//[E:\info\SW_img]
 ---------------------------------------------------------------------------------
-14:40 25-11-2024
+14:27 28-11-2024
+
+	<structure_variable>
+
+> Structure & Named structure
+>  
+	 struct
+	 {
+   	  string brand;
+  	   string model;
+  	   int year;
+	 }mycar1,mycar2;
 
 >
+		 struct car // [ Named structure]
+	 {
+ 	    string brand;
+ 	    string model;
+    	 int year;
+ 	};
+	car mycar1;
+	car mycar2;
+
