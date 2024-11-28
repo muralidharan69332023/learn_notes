@@ -66,6 +66,29 @@
  12:54 26-11-2024
 > power integrity
 
+-----------------------------------------------------------------------------------------
+09:53 28-11-2024
+
+> LDO
+	* input current and output current is equal if the ground current is neglected.
+	* input current and output current is not equal remaining power is being dissipated in LDO //[power into heat]
+	* ambient temperature & junction temperature.
+	* PCB design and thermal pad size have the largest effect on theta JA  
+	* increase the size of object would cause it to heat up slower //[package is very important in the system] 
+	* JEDEC board, pulsing the load //[mush copper used in the LDO thermal pad]
+=>PSRR(power supply rejection ratio)
+ 	* PSRR value //[EX. 45 dB] 
+	* attenuation Factor
+	* PSRR(dB) vs Frequency (Hz)
+	* output capacitor, noise reduction capacitor(CNR), feed-forward capacitor(cff)
+=> Quiescent current
+		[link:https://www.youtube.com/watch?v=ElwHW2QsanQ&list=PLISmVLHAZbTS4ju6-eAE6TpTGhv7er2GT&index=3]
+	* quiescent current not equal to shutdown current
+	* WCSP, QFN, SOT-23 //[package]
+ 	* enable mode, standby mode to reduce the power dissipation
+=> Dropout
+	* PMOS LDO, NMOS LDO architecture 
+	* NMOS increase error amplifier voltage //[Biased, charge pump]
 
 
 
@@ -76,5 +99,7 @@
 
 
 
+
+ 
 
 
