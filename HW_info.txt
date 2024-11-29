@@ -89,6 +89,53 @@
 => Dropout
 	* PMOS LDO, NMOS LDO architecture 
 	* NMOS increase error amplifier voltage //[Biased, charge pump]
+---------------------------------------------------------------------------------------------
+10:06 29-11-2024
+
+	[link:https://www.ti.com/lit/ug/sluuap2/sluuap2.pdf?ts=1732795819703]
+
+> EX .Pout= 12V*3A + 5V*1A
+	=36+5
+	=41W
+
+> input voltage low means output power loss high. 
+	//[EX. input voltage->input current->output voltage->output current->power loss]
+	// [90.12V-13.64A |12.08V-9A |14.08W]
+	// [120.13V-1.01A |12.08V-9A |12.36W]
+	// [220V-0.55A |12.08V-9A- |10.38W]
+
+> Line transient response & load transient response
+
+
+==========================================================================================
+11:57 29-11-2024
+
+	<LDO>
+> capacitor and capacitance  //[x5R,X7R->temperature code ]
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
