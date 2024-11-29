@@ -52,3 +52,37 @@
 	car mycar2;
 
 > "enumerations"
+-------------------------------------------------------------------------------------
+16:51 29-11-2024
+
+> [link: https://www.youtube.com/watch?v=3T3ZDquDDVg]
+========================================
+
+> if(val==42) // [instead we use special function if (42==val) in Boolean ]
+
+	=>if(val=42) correct and if(42=val) error on the compiler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
