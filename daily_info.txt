@@ -12,7 +12,7 @@
 Describe how, in I2C, the slave device can hold the SCL line low to signal the master to pause until the slave is ready to proceed.
 -------------------------------------------------------------------------------------------
 20/09/2024
- In C++, when writing a program, you need to define a maIn Arduino, you don’t need to define main(). Instead, Arduino uses two special functions:
+ In C++, when writing a program, you need to define a main Arduino, you don’t need to define main(). Instead, Arduino uses two special functions:
 
 setup(): Runs once when the program starts.
 loop(): Runs continuously after setup() finishes.in() function where everything start
