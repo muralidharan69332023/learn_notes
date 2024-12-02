@@ -62,30 +62,21 @@
 
 	=>if(val=42) correct and if(42=val) error on the compiler.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
+============================================
 > [link: https://www.youtube.com/watch?v=3T3ZDquDDVg] // debugging method
 >>>>>>> b46e2dbe189d2dfb053fac89dba22ecc96909876
+------------------------------------------------------------------------------------
+14:27 02-12-2024
+
+> Void means that the function does not have return value //[void is a type of function ]
+> Pre-defined function //[EX. main()]
+> void myfunction //[function declaration]
+> myfunction //[call the function]
+========================================
+>parameters and arguments
+
+
+
+
+
+
