@@ -113,8 +113,11 @@
 	<LDO>
 > capacitor and capacitance  //[x5R,X7R->temperature code ]
 	
+-------------------------------------------------------------------------------------------
+09:19 04-12-2024
 
-
+> choosing right power topology
+-> creepage and clearance.
 
 
 
