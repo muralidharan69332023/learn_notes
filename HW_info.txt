@@ -60,7 +60,7 @@
 
 >  1 W isolated output //[in regulator]
 > In PCB board there are 2type of jumper //[closed jumper, open jumper ] 
-> Hi-pot test.
+> Hi-pot test. // high potential test
 > dielectric layers.
 =========================================
  12:54 26-11-2024
@@ -122,6 +122,10 @@
 10:12 05-12-2024
 
 >ZCD - zero crossing detector
+------------------------------------------------------------------------------------------
+10:06 06-12-2024
+
+> [link:https://www.ti.com/lit/an/slva652a/slva652a.pdf?ts=1733459331138] // basics of load switches.
 
 
 
