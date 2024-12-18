@@ -54,7 +54,13 @@
 09:18 04-12-2024
 
 > selecting appropriate power supply topology
+--------------------------------------------------------------------
+09:43 09-12-2024
+ > BMS and charging circuit
+-----------------------------------------------------------------
+09:59 16-12-2024
 
+> what about AT commands, Bluetooth and Wi-Fi
 
 
 
