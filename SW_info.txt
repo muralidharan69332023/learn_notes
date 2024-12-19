@@ -78,7 +78,11 @@
 13:36 03-12-2024
 
 > [link:https://www.youtube.com/watch?v=pDJ6pFA_dcM] // git hub with vscode
+--------------------------------------------------------------------------------------
+14:10 19-12-2024
 
+> scope resolution :: operator
+> a void method does not return any value, so it cannot return anything, not even 0
 
 
 

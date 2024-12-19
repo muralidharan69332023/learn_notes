@@ -134,16 +134,26 @@
 14:27 17-12-2024
 
 > beacon BLE
+-----------------------------------------------------------------------------------------
+10:10 19-12-2024
 
+> Bluetooth
+	- Basic rate/ enhanced data rate
+	- low energy
+	- attribute protocol / generic attribute profile. 
+	// we can't able to transmit BLE to Bluetooth classic directly
+	// with the help of duel mode bluetooth to transmit
+	// BLE can't able to transfer audio files
 
-
-
-
-
-
-
-
-
+> earbud Bluetooth
+	- 1st  72 bits are access code to recoganices the device
+	- Next 54 bits are header
+	- last 500 bits are the payload [content]
+	- 79 diffeent channel
+	- frequency hopping and packets
+	-frequency shifting keying[frequency modulation]
+	- piconet//[15meters || 2.4 to2.485 GHZ] 
+	- TDMA - time diviaion multiple access
 
 
 
