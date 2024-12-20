@@ -154,9 +154,11 @@
 	-frequency shifting keying[frequency modulation]
 	- piconet//[15meters || 2.4 to2.485 GHZ] 
 	- TDMA - time diviaion multiple access
+------------------------------------------------------------------------------------------
+11:00 20-12-2024
 
-
-
+>  Bluetooth Piconet and Scatternet
+> ble advertising and scanning
 
 
 
