@@ -84,6 +84,36 @@
 > scope resolution :: operator
 > a void method does not return any value, so it cannot return anything, not even 0
 
+--------------------------------------------------------------------------------------
+13:59 21-12-2024
+
+> class methods
+	1) inside the class definition
+	2) outside the class definition
+		
+	1) class --> access specifier --> method/function define inside the class --> create an object of the class --> call the method
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
