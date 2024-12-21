@@ -62,8 +62,10 @@
 
 > what about AT commands, Bluetooth and Wi-Fi
 
+-----------------------------------------------------------------
+09:19 21-12-2024
 
-
+> overview of BLE, Wi-Fi, ZigBee, LoRa flow in draw.io
 
 
 
