@@ -146,21 +146,23 @@
 	// BLE can't able to transfer audio files
 
 > earbud Bluetooth
-	- 1st  72 bits are access code to recoganices the device
+	- 1st  72 bits are access code to recognizes the device
 	- Next 54 bits are header
 	- last 500 bits are the payload [content]
-	- 79 diffeent channel
+	- 79 different channel
 	- frequency hopping and packets
 	-frequency shifting keying[frequency modulation]
 	- piconet//[15meters || 2.4 to2.485 GHZ] 
-	- TDMA - time diviaion multiple access
+	- TDMA - time deviation multiple access
 ------------------------------------------------------------------------------------------
 11:00 20-12-2024
 
 >  Bluetooth Piconet and Scatternet
-> ble advertising and scanning
+> BLE advertising and scanning
+--------------------------------------------------------------------------------------------
+10:11 21-12-2024
 
-
+> Wi-Fi standalone  module // EX. esp32, esp8266 is not a soc[system on chip]
 
 
 
