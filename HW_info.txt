@@ -163,7 +163,13 @@
 10:11 21-12-2024
 
 > Wi-Fi standalone  module // EX. esp32, esp8266 is not a soc[system on chip]
+--------------------------------------------------------------------------------------------
+10:19 23-12-2024
 
+> high side current sense || low side current sense || Inline current sense
+> voltage loop || current loop
+=====================================================
+>Peer-to-peer (P2P) architecture is a decentralized computing model where network participants share resources directly with each other without the need for a centralized server.
 
 
 
