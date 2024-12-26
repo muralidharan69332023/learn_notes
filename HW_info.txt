@@ -171,6 +171,12 @@
 =====================================================
 >Peer-to-peer (P2P) architecture is a decentralized computing model where network participants share resources directly with each other without the need for a centralized server.
 
+-----------------------------------------------------------------------------------------------
+10:22 26-12-2024
+
+> Matter protocol
+	- In addition, IoT devices dependent on the cloud can stop functioning if the internet connection is lost. To overcome this issue, Matter protocol helps. Matter protocol enables IoT devices to work offline without requiring access to the cloud, and that also increases the level of security for devices. This is another crucial factor for Matter to be a game changer in the smart home industry.
+
 
 
 
