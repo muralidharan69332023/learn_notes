@@ -176,10 +176,21 @@
 
 > Matter protocol
 	- In addition, IoT devices dependent on the cloud can stop functioning if the internet connection is lost. To overcome this issue, Matter protocol helps. Matter protocol enables IoT devices to work offline without requiring access to the cloud, and that also increases the level of security for devices. This is another crucial factor for Matter to be a game changer in the smart home industry.
+-----------------------------------------------------------------------------------------------------------------------------------
+10:15 27-12-2024
 
+> wired  protocol
+	Q6: How does Ethernet handle collisions in a network?
+ 	A:
+	Ethernet uses Carrier Sense Multiple Access with Collision Detection (CSMA/CD):
+>>
+	Half-Duplex: Data flows in both directions but only one direction at a time (e.g., RS-485).
+	Full-Duplex: Data flows simultaneously in both directions (e.g., RS-232).
+------------------------------------------------------------------------------------------------------------------------------------
+09:39 30-12-2024
 
-
-
+> QSPI - Quad Serial Peripheral Interface
+> eMMC - embedded multimedia card // its type of NAND flash storage device
 
 
 

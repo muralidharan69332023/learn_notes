@@ -66,6 +66,10 @@
 09:19 21-12-2024
 
 > overview of BLE, Wi-Fi, ZigBee, LoRa flow in draw.io
+------------------------------------------------------------------
+09:29 27-12-2024
+
+> wired protocols
 
 
 
