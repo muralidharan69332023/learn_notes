@@ -92,7 +92,11 @@
 	2) outside the class definition
 		
 	1) class --> access specifier --> method/function define inside the class --> create an object of the class --> call the method
-		
+----------------------------------------------------------------------------------------
+17:08 31-12-2024
+
+> Compiler: A compiler translates code from a high-level programming language into machine code before the program runs	
+> Interpreter: An interpreter translates code written in a high-level programming language into machine code line-by-line as the code runs.	
 
 
 

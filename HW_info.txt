@@ -191,8 +191,16 @@
 
 > QSPI - Quad Serial Peripheral Interface
 > eMMC - embedded multimedia card // its type of NAND flash storage device
+----------------------------------------------------------------------------------------------------------------
+09:36 31-12-2024
 
+> House keeping MCU    // secondary microcontroller in a same system.
 
+	-Adding a small, low-cost microcontroller (MCU) for simple housekeeping functions can benefit many board designs. This housekeeping (or secondary) MCU is not the main host processor in the system, but it can handle several important system-level functions such as LED control or input/output (I/O) expansion
+=================================================================================================
+12:20 31-12-2024
+
+> PPM- part per million Accuracy // for DMM 
 
 
 
